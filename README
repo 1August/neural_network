@@ -1,0 +1,4 @@
+To start run this commands in terminal:
+npm i
+npm run build
+npm run start
